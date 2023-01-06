@@ -19,3 +19,13 @@ Go to Step 2 at https://phoenixnap.com/kb/ffmpeg-mac
 # Installation (Linux)
 
 See https://phoenixnap.com/kb/install-ffmpeg-ubuntu
+
+# Resources
+
+## FFMPEG Documentation
+
+https://ffmpeg.org/ffmpeg.html
+
+## FFMPEG Formats
+
+https://ffmpeg.org/ffmpeg-formats.html
