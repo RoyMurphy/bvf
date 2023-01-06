@@ -1,0 +1,1 @@
+ffmpeg -i Desktop\filename.mp4 -c:v libaom-av1 -strict -2 -b:v 0.5M -g 48 -keyint_min 48 -sc_threshold 0 -tile-columns 1 -tile-rows 0 -threads 8 -cpu-used 5 -c:a libopus -b:a 16k -f webm Desktop\filename.webm
