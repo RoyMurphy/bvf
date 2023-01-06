@@ -6,7 +6,7 @@ Bitcoin Video File is a highly optimized fork of the latest FFMPEG cross-platfor
 
 # How to use the BVF codec
 
-Use the above BVF script to optimize your videos. Edit the reference and output files to your filename and desired path. Retain the final .webm file type to output the optimized BVF codecs.
+Use the above BVF script to optimize your videos. Edit the reference and output files to your filename and desired path. Retain the final .webm file type to output the optimized BVF codecs. Either use the standalone script above and use your own FFMPEG build of choice, or download the official build which also contains the latest BVF scripts.
 
 # Installation (Windows)
 
