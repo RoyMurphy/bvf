@@ -29,3 +29,8 @@ https://ffmpeg.org/ffmpeg.html
 ### FFMPEG Formats
 
 https://ffmpeg.org/ffmpeg-formats.html
+
+### Encode AV1
+
+https://trac.ffmpeg.org/wiki/Encode/AV1
+
